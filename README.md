@@ -1,4 +1,6 @@
 # TED Talks analysis
+<b>Rendered notebook:</b><br>
+https://nbviewer.org/github/Teshimoz/TED_Talks/blob/2c5bf49b6e04f0abb9c41fc0e9631079c1af6e0f/TED_Talks.ipynb<br><br>
 <b>Project description:</b><br>
 In this project I will explore a dataset of TED conference talks, it's diversity, trends and outliers. Also I'll try to build a model to predict talk's topic by it's transcript and model for talks clusterization.<br>
 <br>I want to get answers to the following questions: 
@@ -12,7 +14,6 @@ In this project I will explore a dataset of TED conference talks, it's diversity
 Used pandas, matplotlib, seaborn, plotly. <br>
 In ML part used sklearn (Naive Bayes classifier, SVM), nltk.
 <br><br>
-<b>Rendered notebook:</b><br>
-https://colab.research.google.com/drive/1xEHpsQ65SHM1LvSZ4SxftX2hW3W0TplR <br><br>
+<br>
 dataset from Kaggle - https://www.kaggle.com/miguelcorraljr/ted-ultimate-dataset <br>
 
